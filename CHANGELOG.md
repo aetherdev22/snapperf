@@ -1,7 +1,9 @@
 # Changelog
 
-## v1.1 (Beta) - Current
+## v1.1 Beta - Current
 
+### New
+- Add PopUp Changelog Style Mac OS With 3 Dots(RGB)
 ### Fixed
 - Uptime tracking and display
 - Web interface links
