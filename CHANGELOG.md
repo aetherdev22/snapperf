@@ -7,19 +7,14 @@
 - Add PopUp Welcome
   
 ### Fixed
-- Uptime tracking and display
 - Web interface links
-- Log display functionality
 - Service response time
 
 ### Improved
 - Real-time tweak application
 - Instant response performance
 - Overall stability
-- Animasi WebUI lebih halus
-
-### Bug
-- No Bugs
+- Animasi WebUI lebih smooth
 
 ## v1.0 Stable - Initial Release
 
