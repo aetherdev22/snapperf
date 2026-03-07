@@ -17,7 +17,7 @@
 - Overall stability
 - Animasi WebUI lebih halus
 
-## v1.0 - Initial Release
+## v1.0 Stable - Initial Release
 
 ### New
 - Basic performance optimization
