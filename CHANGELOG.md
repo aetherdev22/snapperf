@@ -3,19 +3,23 @@
 ## v1.1 Beta - Current
 
 ### New
-- Add PopUp Changelog Style Mac OS With 3 Dots
+- Add PopUp Changelog Style Mac OS
+- Add PopUp Welcome
+  
 ### Fixed
 - Uptime tracking and display
 - Web interface links
 - Log display functionality
 - Service response time
-- Advanced Tuning tidak lagi auto ON sendiri
 
 ### Improved
 - Real-time tweak application
 - Instant response performance
 - Overall stability
 - Animasi WebUI lebih halus
+
+### Bug
+- No Bugs
 
 ## v1.0 Stable - Initial Release
 
